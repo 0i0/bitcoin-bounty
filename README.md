@@ -1,4 +1,4 @@
-# Alef-bitcoin bounty
+# Bitcoin bounty
  
 The following algorithm is build to reduce the fee of multiple transaction using an aggregation technique
 
